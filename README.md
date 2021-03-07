@@ -1,1 +1,1 @@
-# Machine_Learning_Coursera_IBM
+# Machine_Learning_Sample_Codes
